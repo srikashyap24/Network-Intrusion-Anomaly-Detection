@@ -45,5 +45,15 @@ The **Stacked LSTM Autoencoder** achieved the **highest accuracy (93%)** and dem
 
 ---
 
+## Results
+
+### 1.Isolation Forest
+<img src="isoforest.png">
+
+### 2.LSTM Autoencoder
+<img src="LSTMencoder">
+
+### 3.Stacked LSTM Autoencoder
+<img src="STACKEDLSTM">
 
 
